@@ -1,6 +1,8 @@
 # Local experiment infrastructure
 /.codex/
 /.claude/
+/.agents/
+/.opencode/
 /.control-center-experiment.json
 /.trajectory/
 
